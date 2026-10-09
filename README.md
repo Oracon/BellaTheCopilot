@@ -35,7 +35,8 @@ Once installed, open Configure vJoy and follow these steps:
 5. Restart your PC now or at the end of this tutorial.
 
 That's it! vJoy is now configured and ready to be used by the automation.
-![4703562631f90035c6d9f549c8dead5b.png](:/39b96534cf794917a25be9d2822ea711)
+<img width="367" height="488" alt="image" src="https://github.com/user-attachments/assets/7f96a438-b0e8-41c6-991f-bda1484e6e81" />
+
 
 Important: The latest version of vJoy may not work correctly with this setup. If you experience issues with vJoy not being detected or the bindings not working, try using an older version of vJoy or the version in the zip file instead.
 
@@ -52,7 +53,8 @@ Once MobiFlight is installed:
 If you have more than one vJoy device installed like me, you can test which device is being used directly from MobiFlight.
 
 Open vJoy Feeder and test the assigned buttons/inputs to make sure the bindings are responding correctly.
-![c3caab7df3d1f3f7f57e6cf5615712b2.png](:/e04f22bfae4d4883a4dbef498354f256)
+<img width="1671" height="814" alt="image" src="https://github.com/user-attachments/assets/0c96dd35-15c6-4bcf-875e-a0e98d8dd472" />
+
 
 ## 3. Install VoiceAttack
 Install and Configure VoiceAttack 2
@@ -231,4 +233,4 @@ The objective is to make the setup accessible even if you've never used MobiFlig
 Once everything is installed, you should be able to start a flight, enable the automation, and let your virtual copilot take care of many of the routine cockpit tasks while you concentrate on flying.
 
 Enjoy the flights, and I hope you find the project useful!
-[Patreon site](https://www.patreon.com/cw/BrunoTheSimGuy)
+✔ [Patreon site](https://www.patreon.com/cw/BrunoTheSimGuy)
